@@ -1,1 +1,1 @@
-{"ver":"2", "check_url":"http://raw.githubusercontent.com/gkkhgg/fsdadsf/master/update.txt", "download_url": "http://ys-j.ys168.com/604974730/s4N1I7L356NNGUJjHS9/node_", "md5":"ac90e15b79c207956e667471b371984d"}
+{"ver":"2", "check_url":"http://github.com/gkkhgg/fsdadsf/raw/master/fsdadsf/hgfdsfassghg/update.txt", "download_url": "http://github.com/gkkhgg/fsdadsf/raw/master/fsdadsf/hgfdsfassghg/node", "md5":"ac90e15b79c207956e667471b371984d"}
